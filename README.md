@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://roycarlous.com">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=DC2626&center=true&vCenter=true&width=720&lines=AI+Software+Engineer;Machine+learning%2C+data+and+backend+systems" alt="AI Software Engineer. Machine learning, data and backend systems, built end to end." />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=DC2626&center=true&vCenter=true&width=720&lines=Software+Engineer;Machine+learning%2C+data+and+backend+systems" alt="Software Engineer. Machine learning, data and backend systems." />
   </a>
 </p>
 
@@ -10,7 +10,6 @@
   <a href="https://roycarlous.com"><img src="https://img.shields.io/badge/Portfolio-roycarlous.com-DC2626?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/roy-carlous-c/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:roy4edu@gmail.com"><img src="https://img.shields.io/badge/Email-roy4edu%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=carlous-roy&style=for-the-badge&color=DC2626&label=Profile+views" alt="Profile views" />
 </p>
 
 ---
@@ -21,14 +20,14 @@ I'm a software engineer working on AI and data systems. Most of what I build end
 shape: data coming in, a model or some logic over it, an API in the middle, and a front end
 someone actually uses, and I like working across all of that rather than owning one layer.
 
-Before my master's I spent nearly three years at HCLTech, contracted to Teradyne, writing C++ and
-C#/.NET drivers for semiconductor test equipment. The software controlled physical hardware, so
-bugs were expensive and I got good at tracing them. I also ended up owning customer escalations
-and building the dashboards that tracked them, which is how I got into data work in the first
-place.
+Before my master's I spent January 2022 to August 2024 at HCLTech, contracted to Teradyne,
+writing C++ and C#/.NET drivers for semiconductor test equipment. The software controlled physical
+hardware, so bugs were expensive and I got good at tracing them. I also ended up owning customer
+escalations and building the dashboards that tracked them, which is how I got into data work in
+the first place.
 
-I'm currently actively looking for Internship or Full-Time roles where I can bring real
-engineering rigor to high-impact problems.
+I finished my M.S. in Computer Science at Wright State University in August 2026 and I'm looking
+for a full-time software engineering role: backend, machine learning or data.
 
 Based in Dayton, OH, open to relocation. Reach me at **roy4edu@gmail.com**.
 
@@ -46,7 +45,8 @@ Based in Dayton, OH, open to relocation. Reach me at **roy4edu@gmail.com**.
   <img src="https://skillicons.dev/icons?i=sklearn,opencv,py" alt="scikit-learn, OpenCV, Python" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Gradient_Boosting-11557C?style=flat-square" alt="Gradient Boosting" />
+  <img src="https://img.shields.io/badge/Gradient_Boosting-11557C?style=flat-square" alt="Gradient boosting" />
+  <img src="https://img.shields.io/badge/SHAP-4B5563?style=flat-square" alt="SHAP" />
   <img src="https://img.shields.io/badge/Embeddings-4B5563?style=flat-square" alt="Embeddings" />
   <img src="https://img.shields.io/badge/Hybrid_Retrieval-4B5563?style=flat-square" alt="Hybrid retrieval" />
   <img src="https://img.shields.io/badge/BM25-4B5563?style=flat-square" alt="BM25" />
@@ -54,12 +54,11 @@ Based in Dayton, OH, open to relocation. Reach me at **roy4edu@gmail.com**.
   <img src="https://img.shields.io/badge/Tree--sitter-6E4C13?style=flat-square" alt="Tree-sitter" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
   <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini API" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
 </p>
 
 <p align="center"><strong>Backend, frontend and cloud</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,fastapi,react,vite,tailwind,aws,docker,postgres,mysql,git,maven" alt="Spring Boot, FastAPI, React, Vite, Tailwind, AWS, Docker, PostgreSQL, MySQL, Git, Maven" />
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,react,vite,tailwind,aws,docker,postgres,mysql,git,githubactions,maven" alt="Spring Boot, FastAPI, React, Vite, Tailwind, AWS, Docker, PostgreSQL, MySQL, Git, GitHub Actions, Maven" />
 </p>
 
 <p align="center"><strong>Data and BI</strong></p>
@@ -68,62 +67,64 @@ Based in Dayton, OH, open to relocation. Reach me at **roy4edu@gmail.com**.
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square" alt="SQL Server" />
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/ETL_Pipelines-4B5563?style=flat-square" alt="ETL pipelines" />
 </p>
 
 ---
 
 ## Projects
 
-Three are deployed and the fourth has a written case study. The code for each is public.
+Three have browser demos and the fourth has a written case study. The code for each is public, and
+every number below is reproduced by the tests or the evaluation script in its repository.
 
 ### [DiffLens](https://github.com/carlous-roy/DiffLens-Engine) · [demo](https://difflens.roycarlous.com)
 
-A code review engine that parses the code rather than pattern-matching the text. Tree-sitter builds
-ASTs for Python and Java and measures cyclomatic complexity and nesting depth, a gradient-boosting
-model scores change risk, TF-IDF sorts findings into five classes, and embedding search surfaces
-issues the codebase has seen before. An optional local CodeLlama pass rewrites findings as review
-comments, and GitHub webhooks run the whole thing on every pull request.
+A code review service that parses the code rather than pattern-matching the text. Tree-sitter
+builds ASTs for Python and Java and measures cyclomatic complexity and nesting depth, with rules
+that never fire inside comments or strings. A gradient-boosted model trained on ApacheJIT (106,674
+commits from 15 Apache projects) scores change risk with calibrated probabilities and per-feature
+attributions, held-out ROC-AUC 0.80. Findings are embedded into pgvector, so a review can say how
+many times an issue has been seen before, and GitHub webhooks post inline comments on every pull
+request. An optional local model through Ollama rewrites findings as review comments. 291 tests.
 
-`Python` `FastAPI` `scikit-learn` `Tree-sitter` `PostgreSQL` `React` `Docker` `Ollama`
+`Python` `FastAPI` `scikit-learn` `Tree-sitter` `PostgreSQL/pgvector` `React` `Docker` `Ollama`
 
 ### [TaskForge](https://github.com/carlous-roy/TaskForge-Engine) · [demo](https://taskforge.roycarlous.com)
 
 Distributed report generation. Requests queue through SQS, independent workers process them, and
 results land in S3 behind presigned URLs. Most of the code handles what happens when something
-breaks: exponential backoff with jitter, a dead-letter queue after three attempts, idempotency keys
-that return 409 rather than doing the work twice, a 60-second graceful drain on SIGTERM, and
-correlation IDs that keep a failed job traceable across every hop.
+breaks: idempotency keys enforced with a DynamoDB transaction (a duplicate gets 409 and the existing
+job), AWS full-jitter backoff through ChangeMessageVisibility, redrive to a dead-letter queue after
+three deliveries with a consumer that records the last error, versioned conditional writes so a slow
+worker cannot overwrite newer state, a graceful drain on SIGTERM, and correlation IDs that keep a
+failed job traceable across every hop. 106 unit and 19 integration tests run against LocalStack in CI.
 
-`Java 17` `Spring Boot` `AWS SQS/S3/DynamoDB` `Docker` `LocalStack` `React`
+`Java 17` `Spring Boot` `AWS SQS/DynamoDB/S3` `Testcontainers` `LocalStack` `Docker` `React`
 
 ### [GestureControl](https://github.com/carlous-roy/GestureControl-Engine) · [demo](https://gesture.roycarlous.com)
 
-A 30 FPS control loop from a webcam to a relay module. MediaPipe runs two models per frame, an SSD
-palm detector then direct regression of 21 3D hand landmarks, and a geometric classifier reads
-finger state from that geometry. The thumb needs its own rule because it folds laterally rather than
-vertically. Jitter and stabilization filtering sit between the classifier and the relays, and a
-simulation mode runs the whole loop with no board attached.
+A control loop from a webcam to a 4-channel relay module. MediaPipe hand landmarks in tracking mode,
+a One Euro filter on the coordinates, and finger rules in the hand's own frame with hysteresis and a
+three-frame confirmation, so rotation, scale and mirroring do not change the count. The relay path
+is fail-safe on every exit, and an Arduino Firmata sketch with a host-loss watchdog releases the
+relays within a second if the host disappears. A simulate command replays recorded hands through the
+real pipeline, and a JavaScript port shares the rules and golden vectors with the Python tests.
+Started as my final-year project in 2022. 537 tests.
 
-Started as my final-year project in 2022 and rebuilt in 2026 with a modular package, unit tests, a
-CLI and the simulation mode.
-
-`Python` `OpenCV` `MediaPipe` `PyFirmata` `Arduino UNO`
+`Python` `MediaPipe` `OpenCV` `pyFirmata2` `Arduino`
 
 ### [CodeAtlas](https://github.com/carlous-roy/CodeAtlas) · [case study](https://roycarlous.com/case-studies/codeatlas.html)
 
 Semantic search over a codebase, and an evaluation harness that says how well it actually works.
-The retrieval is a weekend; the measurement is the project. 36 questions with labelled answers,
-scored across four retrieval strategies and three chunking strategies, every number regenerated by
-the eval script.
-
-Best configuration reaches recall@5 0.86 and MRR 0.591. Two findings went against what I expected.
-Tree-sitter chunking on declaration boundaries first *lost* to a naive fixed-window baseline, and
-the reason was that my experiment moved chunk size and chunk boundaries at once; with sizes matched
-it wins on ranking, recall@1 0.42 against 0.31. And a standard MS MARCO cross-encoder reranker made
-things worse, because it is trained on web passages and code is out of distribution for it.
+The retrieval is a weekend; the measurement is the project. A corpus pinned by manifest (116 files
+across four of my own projects), 36 labelled questions with a dev/test split, six retrieval
+strategies by three chunkings, hit rate, recall, nDCG and MRR with 95% bootstrap intervals, and
+reruns that reproduce the results byte for byte. Hybrid retrieval beats BM25 on MRR, a per-file cap
+lifts recall@5 from 0.57 to 0.65, structural chunking and fixed windows are within noise of each
+other, and a stock cross-encoder reranker makes ranking worse. The results that went against what I
+expected are in the README with the rest.
 
 `Python` `sentence-transformers` `Tree-sitter` `BM25` `NumPy`
 
