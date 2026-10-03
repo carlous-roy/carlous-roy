@@ -29,7 +29,7 @@ the first place.
 I finished my M.S. in Computer Science at Wright State University in August 2026 and I'm looking
 for a full-time software engineering role: backend, machine learning or data.
 
-Based in Dayton, OH, open to relocation. Reach me at **roy4edu@gmail.com**.
+Open to relocation anywhere in the US. Reach me at **roy4edu@gmail.com**.
 
 ---
 
